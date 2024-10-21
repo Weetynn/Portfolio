@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio of projects focused on data science, analytics, and business intelligence solutions
+Portfolio of projects focused on data science, analytics, and business intelligence solutions. 
