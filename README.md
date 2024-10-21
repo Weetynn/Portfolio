@@ -14,6 +14,6 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🛒 [Amazon Customer Insights Dashboard]() | Data Visualization | Tableau & Canva| The dashboard analyzes Amazon's customer survey data, providing insights into purchasing behavior, customer demographics, and potential business opportunities. The key objectives are to understand customer preferences, identify areas for business growth, and propose strategies to enhance Amazon's customer experience.|
+| 🛒 [Amazon Customer Insights Dashboard](https://github.com/Weetynn/amazon-tableau-dashboard.git) | Data Visualization | Tableau & Canva| The dashboard analyzes Amazon's customer survey data, providing insights into purchasing behavior, customer demographics, and potential business opportunities. The key objectives are to understand customer preferences, identify areas for business growth, and propose strategies to enhance Amazon's customer experience.|
 
 ## Business Intelligence
