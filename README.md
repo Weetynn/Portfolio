@@ -12,7 +12,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 ## Database Solution
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 📖 [E-Bookstore Database System]() | Database Design | SQL Server Management Studio & diagrams.net| Designed a database system for an electronic bookstore, E-Bookstore using SQL language and  SQL Server Management Studio. Designed and structured tables for members, books, orders, shopping carts, feedback, publishers, categories, cart details, order details, and shipping, ensuring efficient data organization. Enforced business rules to maintain data integrity, reduce redundancy, and streamline inventory management. SQL queries were executed to validate the functionality of the database, demonstrating that it operates efficiently.|
+| 📖 [E-Bookstore Database System](https://github.com/Weetynn/ebookstore-sql-database.git) | Database Design | SQL Server Management Studio & diagrams.net| Designed a database system for an electronic bookstore, E-Bookstore using SQL language and  SQL Server Management Studio. Designed and structured tables for members, books, orders, shopping carts, feedback, publishers, categories, cart details, order details, and shipping, ensuring efficient data organization. Enforced business rules to maintain data integrity, reduce redundancy, and streamline inventory management. SQL queries were executed to validate the functionality of the database, demonstrating that it operates efficiently.|
 
 
 ## Data Visualization
