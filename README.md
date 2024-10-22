@@ -9,11 +9,26 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 - [Data Visualization](#data-visualization)
 - [Business Intelligence](#business-intelligence)
 
+---
+
+<div align="center">
+  
 ### Machine Learning
+
+</div>
+
+| Project | Domain | Software/Tools | Project Overview |
+|--------------|-----------------|-------|---------------------|
+| 📉 [Forecasting NZ's Fertility Rate](https://github.com/Weetynn/nz-fertility-tsf.git) | Time Series Forecasting | RStudio | Explored the historical trends and future projections of fertility rates in New Zealand, drawing on data from 1960 to 2021. Statistical methods namely the Mann-Kendall Trend test and KPSS test were applied to assess trends and stationarity in the data. Forecasting techniques precisely Simple Exponential Smoothing, Holt’s Linear Trend Model, Cubic Trend Model, and ARIMA models were employed to predict future fertility rates. The models were evaluated using accuracy metrics of Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).|
 
 ---
 
+<div align="center">
+  
 ### Time Series Forecasting
+
+</div>
+
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 📉 [Forecasting NZ's Fertility Rate](https://github.com/Weetynn/nz-fertility-tsf.git) | Time Series Forecasting | RStudio | Explored the historical trends and future projections of fertility rates in New Zealand, drawing on data from 1960 to 2021. Statistical methods namely the Mann-Kendall Trend test and KPSS test were applied to assess trends and stationarity in the data. Forecasting techniques precisely Simple Exponential Smoothing, Holt’s Linear Trend Model, Cubic Trend Model, and ARIMA models were employed to predict future fertility rates. The models were evaluated using accuracy metrics of Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).|
