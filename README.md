@@ -46,7 +46,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 📖 [E-Bookstore Database System](https://github.com/Weetynn/ebookstore-sql-database.git) | Database Design | SQL Server Management Studio & diagrams.net| Developed a database system for E-Bookstore using SQL and SQL Server Management Studio. Designed tables for members, books, orders, and other key entities to ensure efficient data organization. Applied business rules to maintain data integrity and streamline inventory. Executed SQL queries to validate database functionality.|
-| 🏡 [Landbay Case Study (I)](https://github.com/Weetynn/housingdata-dm.git) | Initial Data Exploration, Data Management | SQL Server Management Studio & diagrams.net| Developed a database system for E-Bookstore using SQL and SQL Server Management Studio. Designed tables for members, books, orders, and other key entities to ensure efficient data organization. Applied business rules to maintain data integrity and streamline inventory. Executed SQL queries to validate database functionality.|
+| 🏡 [King County Housing (I)](https://github.com/Weetynn/housingdata-dm.git) | Initial Data Exploration & Data Management | SAS Studio & RStudio| Explored housing data from King County, Washington, focusing on summarizing properties, identifying missing values, detecting outliers, and evaluating inconsistencies across 21 attributes. Evaluated data warehousing concepts through a case study on Landbay, a UK-based mortgage lending platform, focusing on scalability, integration, governance, flexibility, and cost efficiency.|
 
 ---
 
