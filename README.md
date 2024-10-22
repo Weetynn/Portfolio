@@ -41,7 +41,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ---
 
-### Database Solution
+### Database/ Data Management
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
