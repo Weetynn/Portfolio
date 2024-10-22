@@ -28,7 +28,8 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🏫 [Multilevel Analysis of English Influence on Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS OnDemand for Academics |Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
+| 🏫 [Multilevel Analysis of English Influence on Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS Studio |Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
+
 
 ---
 
