@@ -1,4 +1,5 @@
-# 🗃️ Portfolio
+# Portfolio
+
 Welcome to my academic portfolio. Here, you will find a collection of projects focused on data science, analytics, and business intelligence solutions.
 
 ## 📑Contents Overview
