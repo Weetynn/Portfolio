@@ -6,7 +6,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 - [Machine Learning](#machine-learning)
 - [Statistical Modeling](statistical-modeling)
 - [Time Series Forecasting](#time-series-forecasting)
-- [Database Solution](#database-solution) 
+- [Database/ Data Management](#datadata-management) 
 - [Data Visualization](#data-visualization)
 - [Business Intelligence](#business-intelligence)
 
