@@ -4,6 +4,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ## 📑Contents Overview
 - [Machine Learning](#machine-learning)
+- [Statistical Modeling](statistical-modeling)
 - [Time Series Forecasting](#time-series-forecasting)
 - [Database Solution](#database-solution) 
 - [Data Visualization](#data-visualization)
@@ -23,11 +24,18 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ---
 
-<div align="center">
-  
-### Time Series Forecasting
 
-</div>
+
+### Statistical Modeling 
+
+| Project | Domain | Software/Tools | Project Overview |
+|--------------|-----------------|-------|---------------------|
+| 🏫 [Multilevel Analysis of English Influence on Math Scores]() | Multilevel Data Analysis | SAS OnDemand for Academics |Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
+
+
+---
+
+### Time Series Forecasting
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
