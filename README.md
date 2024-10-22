@@ -36,6 +36,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 ---
 
 ### Database Solution
+
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 📖 [E-Bookstore Database System](https://github.com/Weetynn/ebookstore-sql-database.git) | Database Design | SQL Server Management Studio & diagrams.net| Constructed a database system for an electronic bookstore, E-Bookstore using SQL language and  SQL Server Management Studio. Designed and structured tables for members, books, orders, shopping carts, feedback, publishers, categories, cart details, order details, and shipping, ensuring efficient data organization. Enforced business rules to maintain data integrity, reduce redundancy, and streamline inventory management. SQL queries were executed to validate the functionality of the database, demonstrating that it operates efficiently.|
@@ -51,8 +52,11 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 ---
 
 ### Business Intelligence
+
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 🎧 [Spotify’s Approach to Digital Strategy: A Case Study](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | - | Explored Spotify's strategic use of digital marketing to maintain its leadership in the music streaming industry. Reviewed the company's various digital marketing strategies and its data-driven approaches. Examined the stages within Spotify's digital marketing funnel, outlining targeted efforts at each stage to maximize conversions and long-term engagement. Assessed the economic impact of its digital initiatives, highlighting their contribution to the platform’s growth in user base and revenue.|
+| 🖥️ [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | EConducted a comparative analysis of Spotify's and YouTube's websites for the period between November 2023 and January 2024. The analysis focused on key areas, including traffic, user engagement, demographic trends, search engine optimization (SEO), social media presence, and monetization strategies. |
+
 
 
