@@ -18,10 +18,6 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 </div>
 
-| Project | Domain | Software/Tools | Project Overview |
-|--------------|-----------------|-------|---------------------|
-| 📉 [Forecasting NZ's Fertility Rate](https://github.com/Weetynn/nz-fertility-tsf.git) | Time Series Forecasting | RStudio | Explored the historical trends and future projections of fertility rates in New Zealand, drawing on data from 1960 to 2021. Statistical methods namely the Mann-Kendall Trend test and KPSS test were applied to assess trends and stationarity in the data. Forecasting techniques precisely Simple Exponential Smoothing, Holt’s Linear Trend Model, Cubic Trend Model, and ARIMA models were employed to predict future fertility rates. The models were evaluated using accuracy metrics of Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).|
-
 ---
 
 ### Statistical Modeling 
@@ -45,8 +41,9 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 📖 [E-Bookstore Database System](https://github.com/Weetynn/ebookstore-sql-database.git) | Database Design | SQL Server Management Studio & diagrams.net| Developed a database system for E-Bookstore using SQL and SQL Server Management Studio. Designed tables for members, books, orders, and other key entities to ensure efficient data organization. Applied business rules to maintain data integrity and streamline inventory. Executed SQL queries to validate database functionality.|
+| 📚 [E-Bookstore Database System](https://github.com/Weetynn/ebookstore-sql-database.git) | Database Design | SQL Server Management Studio & diagrams.net| Developed a database system for E-Bookstore using SQL and SQL Server Management Studio. Designed tables for members, books, orders, and other key entities to ensure efficient data organization. Applied business rules to maintain data integrity and streamline inventory. Executed SQL queries to validate database functionality.|
 | 🏡 [King County Housing (I)](https://github.com/Weetynn/housingdata-dm.git) | Initial Data Exploration & Data Management | SAS Studio & RStudio| Explored housing data from King County, Washington, focusing on summarizing properties, identifying missing values, detecting outliers, and evaluating inconsistencies across 21 attributes. Evaluated data warehousing concepts through a case study on Landbay, a UK-based mortgage lending platform, focusing on scalability, integration, governance, flexibility, and cost efficiency.|
+| 🏠 [King County Housing (II)](https://github.com/Weetynn/housingdata-dm-ii.git) | Data Preprocessing, Exploratory Data Analysis & Feature Engineering | SAS Studio | Demonstrated data preprocessing and feature engineering in a data analysis workflow. Preprocessing involved correcting attribute data types, resolving inconsistencies, and addressing missing values. Feature engineering included variable transformation, creation, and scaling. Formulated and tested five hypotheses to explore relationships between key housing attributes and sale prices. |
 
 ---
 
@@ -54,7 +51,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🛒 [Amazon Customer Insights Storyboard](https://github.com/Weetynn/amazon-tableau-dashboard.git) | Data Visualization | Tableau & Canva | Created a storyboard to analyze Amazon's customer survey data, uncovering insights into purchasing behavior, demographics, and business opportunities. The goals were to understand preferences, identify growth areas, and propose strategies to improve the customer experience.|
+| 🛍️ [Amazon Customer Insights Storyboard](https://github.com/Weetynn/amazon-tableau-dashboard.git) | Data Visualization | Tableau & Canva | Created a storyboard to analyze Amazon's customer survey data, uncovering insights into purchasing behavior, demographics, and business opportunities. The goals were to understand preferences, identify growth areas, and propose strategies to improve the customer experience.|
 
 ---
 
@@ -62,8 +59,8 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🎧 [Spotify’s Approach to Digital Strategy: A Case Study](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | N/A | Analyzed Spotify's digital marketing strategies and data-driven approaches to maintain industry leadership. Reviewed its marketing funnel stages and targeted efforts to boost conversions and engagement. Highlighted the economic impact of these initiatives on user growth and revenue.|
-| 📊 [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify and YouTube websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
+| 🎸 [Spotify’s Approach to Digital Strategy: A Case Study](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | N/A | Analyzed Spotify's digital marketing strategies and data-driven approaches to maintain industry leadership. Reviewed its marketing funnel stages and targeted efforts to boost conversions and engagement. Highlighted the economic impact of these initiatives on user growth and revenue.|
+| 📝 [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify and YouTube websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
 
 
 
