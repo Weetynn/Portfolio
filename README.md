@@ -21,7 +21,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 💳 [Predicting Credit Card Churn](https://github.com/Weetynn/credit-card-churn-sasem.git) | Data Analytics, Predictive & Descriptive Modeling | SAS Enterprise Miner | Studied credit card churn in the banking sector using SAS Enterprise Miner for data processing and modeling. The analysis involved data preparation, exploration, and predictive modeling to identify key churn factors. Recommendations include personalized rewards for active users, proactive support for at-risk customers, improved credit management, and monitoring of significant behavioral changes.|
-
+| 📰 [Forecasting Malaysia's GDP Using News Sentiment](https://github.com/Weetynn/news-sentiment-gdpmalaysia.git) | Macroeconomic Forecasting, Mandarin News Sentiment Analysis | Python & ParseHub | Studied credit card churn in the banking sector using SAS Enterprise Miner for data processing and modeling. The analysis involved data preparation, exploration, and predictive modeling to identify key churn factors. Recommendations include personalized rewards for active users, proactive support for at-risk customers, improved credit management, and monitoring of significant behavioral changes.|
 
 ---
 
