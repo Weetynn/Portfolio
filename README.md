@@ -12,11 +12,9 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ---
 
-<div align="center">
   
 ### Machine Learning
 
-</div>
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
