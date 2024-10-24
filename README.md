@@ -18,13 +18,18 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 </div>
 
+| Project | Domain | Software/Tools | Project Overview |
+|--------------|-----------------|-------|---------------------|
+| 💳 [Predicting Credit Card Churn](https://github.com/Weetynn/credit-card-churn-sasem.git) | Data Analytics, Predictive & Descriptive Modeling | SAS Enterprise Miner | Studied credit card churn in the banking sector using SAS Enterprise Miner for data processing and modeling. The analysis involved data preparation, exploration, and predictive modeling to identify key churn factors. Recommendations include personalized rewards for active users, proactive support for at-risk customers, improved credit management, and monitoring of significant behavioral changes.|
+
+
 ---
 
 ### Statistical Modeling 
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 👨‍🏫 [Multilevel Analysis of English Influence on Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS Studio |Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
+| 👨‍🏫 [Multilevel Analysis of English Influence on Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS Studio | Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
 
 
 ---
@@ -33,7 +38,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🤰 [Forecasting NZ's Fertility Rate](https://github.com/Weetynn/nz-fertility-tsf.git) | Time Series Forecasting | RStudio |Analyzed historical trends and future projections of New Zealand's fertility rates. Trends and stationarity were assessed using the Mann-Kendall Trend test and KPSS test.  Applied forecasting techniques, including Simple Exponential Smoothing, Holt’s Linear Trend Model, Cubic Trend Model, and ARIMA. Evaluated models using Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).|
+| 🤰 [Forecasting NZ's Fertility Rate](https://github.com/Weetynn/nz-fertility-tsf.git) | Time Series Forecasting | RStudio | Analyzed historical trends and future projections of New Zealand's fertility rates. Trends and stationarity were assessed using the Mann-Kendall Trend test and KPSS test.  Applied forecasting techniques, including Simple Exponential Smoothing, Holt’s Linear Trend Model, Cubic Trend Model, and ARIMA. Evaluated models using Mean Absolute Error (MAE) and Root Mean Square Error (RMSE).|
 
 ---
 
