@@ -4,7 +4,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ## 📑Contents Overview
 - [Machine Learning](#machine-learning)
-- [StatisticalModeling](statisticalmodeling)
+- [Hello](hello)
 - [Time Series Forecasting](#time-series-forecasting)
 - [Database/ Data Management](#database-data-management)
 - [Data Visualization](#data-visualization)
@@ -24,7 +24,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ---
 
-### StatisticalModeling
+### Hello
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
