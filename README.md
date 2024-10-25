@@ -24,7 +24,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 ---
 
-### Statistical Modeling 
+### Statistical Modeling
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
