@@ -64,7 +64,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
 | 🎸 [Spotify’s Approach to Digital Strategy: A Case Study](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | N/A | Analyzed Spotify's digital marketing strategies and data-driven approaches to maintain industry leadership. Reviewed its marketing funnel stages and targeted efforts to boost conversions and engagement. Highlighted the economic impact of these initiatives on user growth and revenue.|
-| 📝 [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify and YouTube websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
+| 📝 [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify's and YouTube's websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
 
 
 
