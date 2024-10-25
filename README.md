@@ -28,7 +28,7 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 👨‍🏫 [Multilevel Analysis of English Influence on Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS Studio | Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
+| 👨‍🏫 [English and Math Scores](https://github.com/Weetynn/jsp-mda.git) | Multilevel Data Analysis | SAS Studio | Examined the impact of English comprehension on Math performance using multilevel data from London schools. Focusing on Year 2 students,  random intercept and random slope models were applied to capture both within-school and between-school effects.|
 
 
 ---
@@ -63,8 +63,8 @@ Welcome to my academic portfolio. Here, you will find a collection of projects f
 
 | Project | Domain | Software/Tools | Project Overview |
 |--------------|-----------------|-------|---------------------|
-| 🎸 [Spotify’s Approach to Digital Strategy: A Case Study](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | N/A | Analyzed Spotify's digital marketing strategies and data-driven approaches to maintain industry leadership. Reviewed its marketing funnel stages and targeted efforts to boost conversions and engagement. Highlighted the economic impact of these initiatives on user growth and revenue.|
-| 📝 [Spotify vs YouTube: Web Analytics Comparison](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify's and YouTube's websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
+| 🎸 [Spotify's Digital Strategy](https://github.com/Weetynn/spotify-case-study.git) | Behavioral Science, Social Media, & Marketing Analytics | N/A | Analyzed Spotify's digital marketing strategies and data-driven approaches to maintain industry leadership. Reviewed its marketing funnel stages and targeted efforts to boost conversions and engagement. Highlighted the economic impact of these initiatives on user growth and revenue.|
+| 📝 [Spotify vs YouTube Analytics](https://github.com/Weetynn/spotify-vs-youtube.git) | Behavioral Science, Social Media, & Marketing Analytics | Similarweb | Performed a comparative analysis of Spotify's and YouTube's websites from November 2023 to January 2024, focusing on traffic, user engagement, demographics, SEO, social media presence, and monetization strategies. |
 
 
 
